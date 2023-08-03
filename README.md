@@ -1,2 +1,2 @@
-# Coding-Examples
-Here are some projects I have completed to demonstrate my coding ability some code was provided by instructors, but any such case is clearly commented as such.
+# Coding-Examples-Machine-Learning
+These are the coding projects I completed in my machince learning class there is a classification project and a neural network one. For these projects we where given all data and a sekeleton for structure and were tasked with creating the models and assigning hyper-parameters. 
